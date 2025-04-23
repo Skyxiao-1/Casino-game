@@ -41,5 +41,5 @@ Library/Artifacts/ff/* filter=lfs diff=lfs merge=lfs -text
 Library/Artifacts/fc/* filter=lfs diff=lfs merge=lfs -text
 Artifacts/ filter=lfs diff=lfs merge=lfs -text
 *.asmdef filter=lfs diff=lfs merge=lfs -text
-Library/PackageCache/com.unity.timeline@c58b4ee65782/Samples~/* filter=lfs diff=lfs merge=lfs -text
-Library/PackageCache/com.unity.timeline@c58b4ee65782/* filter=lfs diff=lfs merge=lfs -text
+Library/PackageCache/* filter=lfs diff=lfs merge=lfs -text
+
