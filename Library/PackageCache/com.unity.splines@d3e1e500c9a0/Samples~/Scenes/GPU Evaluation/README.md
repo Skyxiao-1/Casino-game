@@ -1,12 +1,3 @@
-# GPU Evaluation sample
-
-The GPU Evaluation sample demonstrates how to evaluate splines on a GPU (Graphics Processing Unit). 
-
-In the Splines package, `Spline.cginc` can be used to write shaders that work with splines. 
-
-Refer to `SplineRendererCompute.cs` to see an example on how to use `SplineComputeBufferScope` to pass spline information to the GPU. 
-
-Refer to the `InterpolateSpline.compute` shader to see how to use `Spline.cginc` to evaluate the position of a spline in a computer shader.
-
-Play the GPU Evaluation sample scene to see GPU spline evaluation in action.
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:bf8fa5296dd567e5e204a8a6105f2a4105ef37c2396436c41a678ebdb2c10ad6
+size 576

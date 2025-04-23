@@ -1,6 +1,3 @@
-com.unity.multiplayer.center copyright © 2023 Unity Technologies
-
-Licensed under the Unity Package Distribution License (see https://unity3d.com/legal/licenses/Unity_Package_Distribution_License ).
-
-Unless expressly provided otherwise, the software under this license is made available strictly on an “AS IS” BASIS WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED. Please review the license for details on these and other terms and conditions.”
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:e6522fc3e87017b4950060c58fac8478ecc96ba84ce48f4678b73dc1289d6c03
+size 453

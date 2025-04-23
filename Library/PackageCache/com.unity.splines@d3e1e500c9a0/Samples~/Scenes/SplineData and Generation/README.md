@@ -1,11 +1,3 @@
-# SplineData and Generation sample
-
-The SplineData and Generation sample is a complex sample that uses the `SplineData`, `SplineUtility`, and `SplineEditorUtility` APIs to procedurally generate various spline-based objects in the scene.
-
-To see object generation along a spline that leverages the `SplineUtility.GetPointAtLinearDistance` function, select either the **FenceSpline** or **EvenlySpawnSpline** GameObject and manipulate its spline.
-
-`SplineDataHandles` can be used to customize a road's width and a follower's animation parameters in the Editor. To see `SplineDataHandles` in use, select either the **Road Spline** or **Spline Follower** GameObject and then activate the associated `EditorTool`. 
-
-Refer to the `AnimateCarAlongSpline.cs` example script to see how to use the `SplineUtility` and `SplineData` APIs to implement a spline.
-
-Play the SplineData and Generation sample scene to see the `AnimateCarAlongSpline.cs` script in use.
+version https://git-lfs.github.com/spec/v1
+oid sha256:191f9f34b0d7a37ae01cf13d3ffda3b75dfd5fb001de302b875756f032d3d9fb
+size 951

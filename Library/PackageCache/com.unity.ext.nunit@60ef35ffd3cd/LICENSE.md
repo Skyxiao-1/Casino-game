@@ -1,5 +1,3 @@
-Custom Nunit copyright © 2019 Unity Technologies
-
-Licensed under the Unity Package Distribution License (see https://unity3d.com/legal/licenses/Unity_Package_Distribution_License ).
-
-Unless expressly provided otherwise, the software under this license is made available strictly on an “AS IS” BASIS WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED. Please review the license for details on these and other terms and conditions.
+version https://git-lfs.github.com/spec/v1
+oid sha256:04215dd30e968d6aaf3f8fc33c59c40c18b807757afdbfcbd92326a8e2b59d36
+size 438

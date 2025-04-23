@@ -1,15 +1,3 @@
-* [Collections package](index.md)
-    * [Known issues](issues.md)
-* [Collections overview](collections-overview.md)
-    * [Collection types](collection-types.md)
-    * [Parallel readers and writers](parallel-readers.md)
-* [Use allocators to control unmanaged memory](allocation.md)
-    * [Allocator overview](allocator-overview.md)
-    * [Aliasing allocators](allocator-aliasing.md)
-    * [Rewindable allocator overview](allocator-rewindable.md)
-    * [Custom allocator overview](allocator-custom-define.md)
-        * [Use a custom allocator](allocator-custom-use.md)
-* [Performance comparisons](performance-comparisons.md)
-    * [Allocator benchmarks](allocator-benchmarks.md)
-        * [Allocator performance comparison](performance-comparison-allocators.md)
-    * [Container performance comparison](performance-comparison-containers.md)
+version https://git-lfs.github.com/spec/v1
+oid sha256:6a2c52ac9c058dde91ccbe57a96140a47ad5518520c15b10c08eaaa743b68ba2
+size 839

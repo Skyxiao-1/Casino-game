@@ -1,18 +1,3 @@
-# Changelog
-
-All notable changes to this package will be documented in this file.
-
-The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/)
-and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.html).
-
-## [1.0.1] - 2024-01-08
-
-### Fixed
-
-- Fixed UUM-59879: MissingComponentException when no MeshFilter is attached to a Terrain tree game object.
-
-## [1.0.0] - 2023-04-25
-
-### Added
-
-- Initial package release
+version https://git-lfs.github.com/spec/v1
+oid sha256:1223ac5ad5e4317adca28e1317681f7113300d8847474325ff59a744b241b069
+size 456

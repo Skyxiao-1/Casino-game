@@ -1,12 +1,3 @@
-# Get Main Light Direction Node
-
-## Description
-
-Provides access to the direction of the main directional light in the scene.
-The main directional light is the one casting shadows if there is any. Otherwise, it fallbacks to the first non shadow casting directional light.
-
-### Ports
-
-| Name          | Direction | Type           | Description                                               |
-| :------------ | :-------- | :------------- | :-------------------------------------------------------- |
-| **Direction** | Output    | Vector3        | The normalized direction of the sun light in world space. |
+version https://git-lfs.github.com/spec/v1
+oid sha256:cf9245dbbade5a13aba73942eceb6e33fb855ce090bb0378b1955a3d23d17d7c
+size 605

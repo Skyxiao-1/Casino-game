@@ -1,10 +1,3 @@
-# Custom Nunit build to work with Unity
-
-This version of nunit works with all platforms, il2cpp and Mono AOT.
-
-For Nunit Documentation:
-https://github.com/nunit/docs/wiki/NUnit-Documentation
-
-This source code for this packages lives at https://github.com/Unity-Technologies/nunit
-
-This custom Nunit is based on Nunit version 3.5, and it is precompiled for .NET 4.0. The uncompiled public version lives here https://github.com/Unity-Technologies/nunit.
+version https://git-lfs.github.com/spec/v1
+oid sha256:849d5234b1a7ae87cc39602c95d2bb5c5a293a453c00d4c972f48d2565eda681
+size 462

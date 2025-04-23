@@ -1,6 +1,3 @@
-# Universal Render Pipeline Configuration Package
-
-The Universal Render Pipeline (URP) uses this package to control the settings of some of its features. If you want to use this package to configure URP, you must link it as a local package.
-
-* For information on how to set up and use the URP Config package, see [URP Config](https://docs.unity3d.com/Packages/com.unity.render-pipelines.universal@latest/index.html?subfolder=/manual/URP-Config-Package.html).
-* For documentation on URP itself, see [URP documentation](https://docs.unity3d.com/Packages/com.unity.render-pipelines.universal@latest/index.html).
+version https://git-lfs.github.com/spec/v1
+oid sha256:3a714a681d969f641f03d64de2fde6c700c97ac2c1913157dd87801d040cac4f
+size 609

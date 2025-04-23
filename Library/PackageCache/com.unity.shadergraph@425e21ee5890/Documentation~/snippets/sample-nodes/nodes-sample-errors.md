@@ -1,6 +1,3 @@
----
-title: nodes-sample-errors
----
-
-> [!NOTE]
-> If you experience texture sampling errors for this node in a graph with Custom Function Nodes or Sub Graphs, upgrade to Shader Graph version 10.3 or later.
+version https://git-lfs.github.com/spec/v1
+oid sha256:01af397608c70705d384a6d605481455e2bc53ca79a0be2c2322588023a25d03
+size 204

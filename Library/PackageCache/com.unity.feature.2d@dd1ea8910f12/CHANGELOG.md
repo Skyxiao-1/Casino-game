@@ -1,14 +1,3 @@
-# Changelog
-
-## [2.0.1] - 2024-05-09
-### Fixed
-- Fixed quickstart link to its appropriate editor version
-
-
-## [2.0.0] - 2023-05-31
-### Added
-- Added the Aseprite Importer to the feature set.
-
-## [1.0.0] - 2021-04-23
-### Added
-- This is the first release of *2D* feature set.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1121906bd0c2f930cc03ee6b8c2dc633b85f79a94c2ba3a0ed48b96141b19e56
+size 275

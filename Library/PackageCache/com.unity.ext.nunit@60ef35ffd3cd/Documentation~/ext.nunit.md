@@ -1,7 +1,3 @@
-# Custom Nunit manual
-
-## Package Summary
-A custom version of NUnit used by Unity Test Framework. Based on NUnit version 3.5 and works with all platforms, il2cpp and Mono AOT. 
-
-See the [NUnit documentation](https://docs.nunit.org/) for more information.
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:26432a7f63baac95eaf73b6ab0718f1747e0ba0602af8b74b3710251f4518ecb
+size 263

@@ -1,12 +1,3 @@
-# 3D tracking scenarios
-
-Use Cinemachine to follow and look at the active characters of your 3D games.
-
-
-* [Follow and frame a character](setup-follow-camera.md)
-
-* [Follow and frame a group](GroupingTargets.md)
-
-* [Create a FreeLook Camera](FreeLookCameras.md)
-
-* [Create a Third Person Camera](ThirdPersonCameras.md)
+version https://git-lfs.github.com/spec/v1
+oid sha256:79e9618efdd8f2c21c363c7a1b5b125aa275bb57b4213ad8783c4705cb202abb
+size 319

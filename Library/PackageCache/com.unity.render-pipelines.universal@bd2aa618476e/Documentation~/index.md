@@ -1,8 +1,3 @@
----
-uid: urp-index
----
-# Universal Render Pipeline (URP) scripting reference
-
-The [scripting API](https://docs.unity3d.com/Packages/com.unity.render-pipelines.universal@17.0/api/index.html) documentation is available on this website.
-
-The user guide for URP in Unity 6 is in the [Unity Manual](https://docs.unity3d.com/6000.0/Documentation/Manual/urp/urp-introduction.html).
+version https://git-lfs.github.com/spec/v1
+oid sha256:1c95a4dde51c996c116f2d03db2a77a67e556c163e90ff683c4b625771234dc4
+size 375

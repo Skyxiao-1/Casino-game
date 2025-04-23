@@ -1,11 +1,3 @@
-# Edge
-
-## Description
-
-An **Edge** defines a connection between two [Ports](Port.md). **Edges** define how data flows through the [Shader Graph](index.md) node network. They can only be connected from an input [Port](Port.md) to an output [Port](Port.md).
-
-Each **Edge** has a [Data Type](Data-Types.md) which defines what [Ports](Port.md) it can be connected to. Each [Data Type](Data-Types.md) has an associated color for identifying its type.
-
-You can create a new **Edge** by clicking and dragging from a [Port](Port.md) with the left mouse button. Edges can be deleted with Delete (Windows), Command + Backspace (OSX) or from the context menu by right clicking on the [Node](Node.md).
-
-You can open a contextual [Create Node Menu](Create-Node-Menu.md) by dragging an **Edge** from a [Port](Port.md) with the left mouse button and releasing it in an empty area of the workspace.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2c30dbbfc3e71bcfa72baf2c11bba3c07e864740cf796aa9d77b41e1d1f86c09
+size 884

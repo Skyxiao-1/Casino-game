@@ -1,14 +1,3 @@
-# Known Issues
-
-## Accumulation Buffer Projection Matrix
-If accumulation's "Anti-aliasing" option is enabled and the scene contains a Cinemachine camera cut, the camera's FOV will be incorrect after the cut.  
-**Workaround**: Reset the projection matrix every frame, after CinemachineBrain has modified the camera.
-
-
-    public class FixProjection : MonoBehaviour
-    {
-        void LateUpdate() 
-        { 
-            Camera.main.ResetProjectionMatrix(); 
-        }
-    }
+version https://git-lfs.github.com/spec/v1
+oid sha256:717f5ddc331cd08e9e7a6a2708aa72856101dd416cfde10ff52794a353fdf295
+size 474

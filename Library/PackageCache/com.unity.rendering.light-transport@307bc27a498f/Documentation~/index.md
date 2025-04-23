@@ -1,5 +1,3 @@
-# Unity Light Transport Library
-
-Contains shared code used for writing raytracing or pathtracing algorithms.
-
-***This is a package intended for internal use and as such this package is currently not supported. A public version of the API will be published in a future Editor's release.***
+version https://git-lfs.github.com/spec/v1
+oid sha256:d4952576c13d3bdc2c41be6b2d6bf4534b20d3d5f67cc59c6fe0148e230c1b0e
+size 289

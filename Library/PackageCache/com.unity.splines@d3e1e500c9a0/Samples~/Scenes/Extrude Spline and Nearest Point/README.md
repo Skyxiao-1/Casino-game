@@ -1,7 +1,3 @@
-# Extrude Spline and Nearest Point sample
-
-The Extrude Spline and Nearest Point sample demonstrates the **Spline Extrude** component and the `SplineUtility.GetNearestPoint` function.
-
-Refer to `ShowNearestPoint.cs` to see how to find the point on a spline that's nearest to an arbitrary point. 
-
-Play the Extrude Spline and Nearest Point sample scene to see a visualization of the function's results.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5313f66ce84e49cb1f7539304bfb6621606f13df7d672de139ac0b0221c94667
+size 401

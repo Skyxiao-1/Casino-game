@@ -1,3 +1,3 @@
-# Splines upgrade guide
-
-This is a new package release. In future package versions, this page will display a list of the actions you need to take to upgrade your project to that version.
+version https://git-lfs.github.com/spec/v1
+oid sha256:69010a8070c1d08b17b0923781fd80b1fb213142201b0bfd4f1942e6637a4ad7
+size 186

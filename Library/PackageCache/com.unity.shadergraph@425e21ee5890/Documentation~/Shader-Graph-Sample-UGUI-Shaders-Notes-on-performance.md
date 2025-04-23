@@ -1,6 +1,3 @@
-# Notes On Performance
-The techniques on display in these example shaders use pure math to generate visuals (procedural generation) instead of sampling texture maps. While it’s obvious that these methods will use less memory than texture map based methods, the main question is whether it’s cheaper to sample a texture map, or generate the visuals procedurally.
-
-In our internal testing, the performance difference between rendering a texture-based button and a procedurally-generated button was less than 0.01 milliseconds so the difference was so small that it was almost not measurable. Of course it would be possible to create a significantly more complex shader that would be more expensive than a texture sample, but at the level of complexity of the examples we’ve created, there’s almost no performance difference between these and traditional texture-based UI elements.
-
-Given this understanding, in addition to the other benefits of these techniques (described at the top of this documentation), it seems obvious that this is a very efficient and effective way to create UI elements.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e9514e658a9a99c1dd8162849984496edb1f05f850a10d3c62df09451a097a56
+size 1101

@@ -1,9 +1,3 @@
-# Hard Lock to Target
-
-This CinemachineCamera __Position Control__ behavior uses the same position at the __Tracking Target__. In other words, the target acts as a mounting point for the CinemachineCamera.
-
-### Properties
-
-| Property | Description |
-| --- | --- |				
-| __Damping__ | Adds lag to the camera's responsiveness.  Value is the approximate time to catch up, in seconds. |
+version https://git-lfs.github.com/spec/v1
+oid sha256:6cf307469008afaa692d71981bed5653209a3568db246eb80a93a4631d4fdc53
+size 383

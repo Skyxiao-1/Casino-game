@@ -1,10 +1,3 @@
-# Spline Instantiate sample
-
-The Spline Instantiate sample demonstrates how the **Spline Instantiate** component instantiates prefabs along a spline.
-
-Refer to how the following GameObjects in the scene use the **Spline Instantiate** component:
-
-- The **Fences** GameObject use the **Linear Distance** instantiate method to precisely follow the spline. 
-- The **Trees** and **Grass** GameObjects use **Offset** to move instances away from the spline.
-- The **PathSpline** GameObject demonstrates simple path instantiation.
-- The **Environment** GameObject groups the other samples in this scene together. 
+version https://git-lfs.github.com/spec/v1
+oid sha256:763475857a4aa221d686dfb4a58902ab71cc6b5b4ece1e52cf695ae2c8fba613
+size 605

@@ -1,12 +1,3 @@
-# Performance comparisons
-
-This section contains data around allocator and container performance benchmarks
-
-|**Topic**|**Description**|
-|---|---|
-|[Allocator benchmarks](allocator-benchmarks.md)|Benchmark information for allocators.|
-|[Container performance comparison](performance-comparison-containers.md)|Performance comparison for containers.|
-
-## Additional resources
-
-* [Allocator overview](allocation.md)
+version https://git-lfs.github.com/spec/v1
+oid sha256:ee87ece4e4bc821e24aa3d0db8eb5681f8fd14175ab2ff9c080fa4892ad792f8
+size 412

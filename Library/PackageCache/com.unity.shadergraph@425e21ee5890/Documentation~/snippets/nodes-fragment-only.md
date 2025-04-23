@@ -1,5 +1,3 @@
----
-title: nodes-fragment-only
----
-
-node can only be connected to a Block node in the **Fragment** Context. For more information on Block nodes and Contexts, refer to [Master Stack](../Master-Stack.md).
+version https://git-lfs.github.com/spec/v1
+oid sha256:0d2465f95c710fbcef360379494d6f36e394147c0acbd732d569525219beca4d
+size 203
