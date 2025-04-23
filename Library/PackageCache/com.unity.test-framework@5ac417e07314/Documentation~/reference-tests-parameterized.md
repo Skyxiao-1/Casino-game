@@ -1,21 +1,3 @@
-# Parameterized tests
-
-For data-driven testing, you may want to have your tests parameterized. You may use both the [NUnit](http://www.nunit.org/) attributes [TestCase](https://github.com/nunit/docs/wiki/TestCase-Attribute) and [ValueSource](https://github.com/nunit/docs/wiki/ValueSource-Attribute) with a unit test. 
-
-> **Note**: With `UnityTest` it is recommended to use `ValueSource` since `TestCase` is not supported.  
-
-## Example
-
-```c#
-static int[] values = new int[] { 1, 5, 6 };
-
-[UnityTest]
-public IEnumerator MyTestWithMultipleValues([ValueSource("values")] int value)
-{
-    yield return null;
-}
-```
-
-## Ignore based on parameters
-
-You can selectively ignore tests based on the parameters supplied to the test method by using the [ParameterizedIgnoreAttribute](xref:UnityEngine.TestTools.ParametrizedIgnoreAttribute).
+version https://git-lfs.github.com/spec/v1
+oid sha256:7fb9b7d201450e6130aeee3f8149d35d6168250f9acda9aa509ef5c4b1c93cae
+size 830

@@ -1,13 +1,3 @@
-# Graphic Raycaster
-
-The Graphic Raycaster is used to raycast against a Canvas. The Raycaster looks at all Graphics on the canvas and determines if any of them have been hit.
-
-The Graphic Raycaster can be configured to ignore backfacing Graphics as well as be blocked by 2D or 3D objects that exist in front of it. A manual priority can also be applied if you want processing of this element to be forced to the front or back of the Raycasting.
-
-## Properties
-
-|**_Property:_** |**_Function:_** |
-|:---|:---|
-|__Ignore Reversed Graphics__ | Should graphics facing away from the raycaster be considered? |
-|__Blocking Objects__ | Type of objects that are checked to determine if they block graphic raycasts. |
-|__Blocking Mask__ | Type of objects specified through LayerMask that are checked to determine if they block graphic raycasts. |
+version https://git-lfs.github.com/spec/v1
+oid sha256:bdad5280de96aac18c3e16ed060458b552314bfd9a980a678989f03343929445
+size 838

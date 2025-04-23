@@ -1,14 +1,3 @@
-# Line Break
-
-Use the `<br>` tag to force a line break in text.
-
-**Example:**
-
-```
-Add line breaks wherever you want
-
-Add line breaks <br>wherever <br>you <br>want
-```
-
-![Example image](../images/TMP_RichTextLineBreak.png)<br/>
-_Adding line breaks_
+version https://git-lfs.github.com/spec/v1
+oid sha256:05378e23e45829e31e8db0ef7bd950de69731eefb78a8afc3b47925408d6d714
+size 249

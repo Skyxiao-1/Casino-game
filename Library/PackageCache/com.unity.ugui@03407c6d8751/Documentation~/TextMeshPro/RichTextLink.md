@@ -1,7 +1,3 @@
-# Text Link
-
-You can use `<link="ID">my link</link>` to add link metadata to a text segment. The link ID should be unique to allow you to retrieve its ID and link text content when the user interacts with your text.
-
-You do not have to give each link a unique ID. You can reuse IDs when it makes sense, for example when linking to the same data multiple times. The `linkInfo` array contains each ID only once.
-
-While this link enables user interaction, it does not change the appearance of the linked text. You have to use other tags for that.
+version https://git-lfs.github.com/spec/v1
+oid sha256:babd96e4dad17c3086c84c0c3e3aa93898f2928ffabdd585b5257d7e27e61f7c
+size 544

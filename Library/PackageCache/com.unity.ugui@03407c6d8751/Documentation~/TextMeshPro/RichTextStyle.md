@@ -1,15 +1,3 @@
-# Style
-
-Apply custom styles using the `<style>` tag. For more information about creating custom styles, see the documentation on [Style Sheets](StyleSheets.md).
-
-The opening `<style>` tag must contain the style name. The closing `</style>` tag, which simply closes the last style opened.
-
-**Example:**
-
-```
-<style="Title">Styles</style>
-You can create your own.
-```
-
-![Example image](../images/TMP_RichTextStyle.png)<br/>
-_Applying a custom style_
+version https://git-lfs.github.com/spec/v1
+oid sha256:bcaf978e6d657d28267353f1cc5d24db57571e0e09a17468f3ea20fe9c0a0fce
+size 449

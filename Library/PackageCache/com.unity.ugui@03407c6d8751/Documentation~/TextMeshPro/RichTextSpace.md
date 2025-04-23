@@ -1,16 +1,3 @@
-# Horizontal Space
-
-The `<space>` tag inserts a horizontal offset, as if you inserted multiple spaces.
-
-You can specify the offset in pixels or font units.
-
-When the `<space>` tag touches adjacent text, it appends or prepends the offset to that text, which affects how the text wraps. If you do not want the offset to wrap independently of adjacent text, make sure to add a space character on either side of the `<space>` tag.
-
-**Example:**
-
-```
-Give me some <space=5em> space.
-```
-
-![Example image](../images/TMP_RichTextSpace.png)<br/>
-_Adding some space_
+version https://git-lfs.github.com/spec/v1
+oid sha256:3542ba3c04f6d54830c3dc15e9e51fae981bd4ed06f971bf04408154ba4bb819
+size 558

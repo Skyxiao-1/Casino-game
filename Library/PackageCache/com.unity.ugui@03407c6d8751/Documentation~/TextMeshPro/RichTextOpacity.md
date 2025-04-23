@@ -1,12 +1,3 @@
-# Text Opacity (Alpha)
-
-Use the `<alpha>` tag to change text opacity. It works with hexadecimal values.
-
-**Example:**
-
-```
-<alpha=#FF>FF <alpha=#CC>CC <alpha=#AA>AA <alpha=#88>88 <alpha=#66>66 <alpha=#44>44 <alpha=#22>22 <alpha=#00>00
-```
-
-![Example image](../images/TMP_RichTextAlpha.png)<br/>
-_Successive `<alpha>` tags_
+version https://git-lfs.github.com/spec/v1
+oid sha256:497b906fb3625a7b20a71ee4c2634f008f05c0bf1e6f3c5fb943c6382f1540d1
+size 323

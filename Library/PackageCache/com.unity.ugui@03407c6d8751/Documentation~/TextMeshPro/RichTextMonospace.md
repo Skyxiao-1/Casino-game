@@ -1,16 +1,3 @@
-# Monospacing
-
-You can override a font's character spacing and turn it into a monospace font with the `<mspace>` tag. This gives all characters the same amount of horizontal space.
-
-You can specify the character width in pixels or font units.
-
-The `</mspace>` closing tag clears all monospace overrides.
-
-**Example:**
-
-```
-Any font can become <mspace=2.75em>monospace, if you really want it.
-```
-
-![Example image](../images/TMP_RichTextMonospace.png)<br/>
-_Treating a font as monospace_
+version https://git-lfs.github.com/spec/v1
+oid sha256:c523ea37daeec2e48ae46c8b5c5d6622ed5c14fe37736340d31bd00725baba61
+size 487

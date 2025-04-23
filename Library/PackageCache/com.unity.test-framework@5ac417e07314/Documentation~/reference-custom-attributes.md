@@ -1,16 +1,3 @@
-# Custom attributes
-
-As a part of UTF’s public API we provide the following attributes:
-
-* [ConditionalIgnore attribute](./reference-attribute-conditionalignore.md)
-* [ParametrizedIgnore attribute](./reference-attribute-parametrizedignore.md)
-* [PostBuildCleanup attribute](./reference-setup-and-cleanup.md#prebuildsetup-and-postbuildcleanup)
-* [PrebuildSetup attribute](./reference-setup-and-cleanup.md#prebuildsetup-and-postbuildcleanup)
-* [TestMustExpectAllLogs attribute](./reference-attribute-testmustexpectalllogs.md)
-* [TestPlayerBuildModifier attribute](./reference-attribute-testplayerbuildmodifier.md)
-* [TestRunCallback attribute](./reference-attribute-testruncallback.md)
-* [UnityPlatform attribute](./reference-attribute-unityplatform.md)
-* [UnitySetUp attribute](./reference-actions-outside-tests.md#unitysetup-and-unityteardown)
-* [UnityTearDown attribute](./reference-actions-outside-tests.md#unitysetup-and-unityteardown)
-* [UnityTest attribute](./reference-attribute-unitytest.md)
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:b660f7e3f464dad56e94fb6f1cb56849ae1f49df3c602445f2c79f1a38b008cd
+size 1002

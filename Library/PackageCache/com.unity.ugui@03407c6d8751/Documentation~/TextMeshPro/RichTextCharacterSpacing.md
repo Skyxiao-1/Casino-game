@@ -1,16 +1,3 @@
-# Character Spacing
-
-The `<cspace>` tag allows you to adjust character spacing, either absolute or relative to the original font Asset. You can use pixels or font units.
-
-Postive adjustments push the characters apart, negative adjustments pull them together.
-
-The closing `</cspace>` tag reverts back to the font's normal spacing.
-
-**Example:**
-
-```
-<cspace=1em>Spacing</cspace> is just as important as <cspace=-0.5em>timing.
-```
-
-![Example image](../images/TMP_RichTextSpacing.png)<br/>
-_Character spacing_
+version https://git-lfs.github.com/spec/v1
+oid sha256:0255759e33ac6ee6cd13eab4d3d79a54d5de7c45f765d8416de302547737d065
+size 508

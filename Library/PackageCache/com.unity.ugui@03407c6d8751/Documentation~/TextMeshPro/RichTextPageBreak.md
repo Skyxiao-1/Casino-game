@@ -1,5 +1,3 @@
-# Page Break
-
-You can use the `<page>` tag to insert page breaks in your text. This cuts the text into separate blocks.
-
-For page breaks to work, you must set the TextMesh Pro object's [**Overflow** mode](TMPObjectUIText.md#wrapping) to **Page**.
+version https://git-lfs.github.com/spec/v1
+oid sha256:81e434add2265398bec729fa6b0a85e20dd98d0093b19708d2ca8caeebc849c9
+size 247

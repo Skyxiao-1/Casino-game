@@ -1,10 +1,3 @@
-* [Performance Testing Package overview](./index.md)
-* [Taking measurements](./taking-measurements.md)
-  * [Measure.Method](./measure-method.md)
-  * [Measure.Frames](./measure-frames.md)
-  * [Measure.Scope](./measure-scope.md)
-  * [Measure.ProfileMarkers](./measure-profile-markers.md)
-  * [Measure.Custom](./measure-custom.md)
-* [Writing tests](./writing-tests.md)
-* [Viewing results](./viewing-results.md)
-* [Reference](./reference.md)
+version https://git-lfs.github.com/spec/v1
+oid sha256:67b8823172326a73edefc9d0edde8c059310ef91499037c513d71a20a36b2c4c
+size 448

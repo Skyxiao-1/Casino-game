@@ -1,16 +1,3 @@
-# Mark
-
-The `<mark>` tag adds an overlay on top of the text. You can use it to highlight portions of your text.
-
-Because markings are overlaid on the text, you have to give them a semitransparent color for the text to show through. You can do this by specifying the color using a hex value that includes Alpha.
-
-You cannot combine marks. Each tag affects the text between itself and the next `<mark>` tag or a closing `</mark>` tag.
-
-**Example:**
-
-```
-Text <mark=#ffff00aa>can be marked with</mark> an overlay.
-```
-
-![Example image](../images/TMP_RichTextMark.png)<br/>
-_Marked text_
+version https://git-lfs.github.com/spec/v1
+oid sha256:a38abb38f326f64653086d5e4b23e11e5ae1eb3267d569034456e0b4bef5c6ea
+size 584

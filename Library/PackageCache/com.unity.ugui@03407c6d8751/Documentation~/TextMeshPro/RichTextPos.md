@@ -1,21 +1,3 @@
-# Horizontal Position
-
-The `<pos>` tag gives you direct control over the horizontal caret position. This works best with horizontal alignment.
-
-The `<pos>` tag's position in the line has no effect on the caret position.
-
-This tag is best used with left alignment.
-
-You can specify the horizontal position in pixels, font units, or percentages.
-
-**Example:**
-
-```
-at <pos=75%>75%
-at <pos=25%>25%
-at <pos=50%>50%
-at 0%
-```
-
-![Example image](../images/TMP_RichTextPos.png)<br/>
-_Setting caret positions_
+version https://git-lfs.github.com/spec/v1
+oid sha256:d02a6d9296721ce69a3aecb2a1c53a670d15dae97d5c72a7b8e463a4e9d3f03c
+size 501

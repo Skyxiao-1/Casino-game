@@ -1,14 +1,3 @@
-# Noparse
-
-The `<noparse>` tag creates a scope that TextMesh Pro does not parse.
-
-This is useful for rendering text that TextMesh Pro normally interprets as a rich text tag, without disabling rich text tags.
-
-**Example:**
-
-```
-Use <noparse><b></noparse> for <b>bold</b> text.
-```
-
-![Example image](../images/TMP_RichTextNoParse.png)<br/>
-_Prevent parsing of some tags_
+version https://git-lfs.github.com/spec/v1
+oid sha256:cd1901926d882f4f92c78f181247af2182d9e4b211d5fbbb346852a9877cba24
+size 369

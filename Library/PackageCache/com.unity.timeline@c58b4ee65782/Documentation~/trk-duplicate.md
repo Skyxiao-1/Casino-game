@@ -1,14 +1,3 @@
-# Duplicate tracks
-
-Duplicating a track copies its binding, clips, blends, and Inspector properties.
-
-![](images/tl-track-dup.png)
-
-_Result of duplicating the last track bound to `DefaultMale`_
-
-There are many ways to duplicate tracks:
-
-* Select a track. Right-click an empty area in the Track list and choose **Duplicate** from the context menu.
-* Select a track. Hold Control (MacOS: Command) and press D.
-* Select a track. Hold Control (MacOS: Command) and press C, for copy, then press V, for paste.
-* Right-click a track and either select **Duplicate** from the context menu or hold Control (MacOS: Command) and press D.
+version https://git-lfs.github.com/spec/v1
+oid sha256:cb2f0bad88b3aacafc3250e942eae52057bb555475803853f927ac505e223a12
+size 626
